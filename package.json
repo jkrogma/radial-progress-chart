@@ -9,7 +9,7 @@
     "hint": "./node_modules/jshint/bin/jshint index.js"
   },
   "dependencies": {
-    "d3": "^3.5.0"
+    "d3": "^4.4.0"
   },
   "devDependencies": {
     "browserify": "~10.2.4",
@@ -34,7 +34,7 @@
   "readmeFilename": "README.md",
   "spm": {
     "dependencies": {
-      "d3": "^3.5.0"
+      "d3": "^4.4.0"
     },
     "main": "index.js"
   }
