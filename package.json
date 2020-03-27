@@ -9,13 +9,13 @@
     "hint": "./node_modules/jshint/bin/jshint index.js"
   },
   "dependencies": {
-    "d3": "^4.4.0"
+    "d3": "^5.15.0"
   },
   "devDependencies": {
-    "browserify": "~10.2.4",
-    "mocha": "^2.2.5",
-    "uglify-js": "2.4.15",
-    "jshint": "2.8.0"
+    "browserify": "^16.5.0",
+    "jshint": "^2.11.0",
+    "mocha": "^7.1.1",
+    "uglify-js": "^3.8.0"
   },
   "main": "index.js",
   "filename": "radial-progress-chart.min.js",
